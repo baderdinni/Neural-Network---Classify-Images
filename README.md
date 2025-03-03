@@ -33,16 +33,3 @@ The MNIST dataset is downloaded automatically by the script.
 Performance
 
 The model achieves a test accuracy of over 97%.
-
-Example
-
-The following command will train the model and evaluate it on the test set:
-
-python image_classifier.py
-
-
-The output of the script will include the test loss, test accuracy, and classification report.
-
-Author
-
-[Vasista]
