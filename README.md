@@ -1,4 +1,4 @@
-# image_classifier.py
+# Neural Network - Classify Images.py
 
 This script trains a neural network to classify handwritten digits using the MNIST dataset.
 
